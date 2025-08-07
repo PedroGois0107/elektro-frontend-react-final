@@ -1,0 +1,8 @@
+node_modules/
+build/
+.env.local
+.env
+*.log
+npm-debug.log*
+.DS_Store
+src/assets/Postman-Agent-win64-0.4.55-Setup.exe
